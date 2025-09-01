@@ -1,7 +1,7 @@
-import { MainLayout } from "@/components/Layout/MainLayout";
+import { HomePage } from "@/pages/HomePage";
 
 const Index = () => {
-  return <MainLayout />;
+  return <HomePage />;
 };
 
 export default Index;
